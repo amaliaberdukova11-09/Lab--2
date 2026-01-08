@@ -48,7 +48,7 @@ int main(void) {
 }
 ```
 ### Результаты работы программы
-
+https://github.com/amaliaberdukova11-09/Lab--2/blob/108fa057ba6728e8ccb4ffb746d77a74a250e29e/рез1.png
 ---
 
 ## Задача 2 - структура для вектора в трёхмерном пространстве
@@ -147,7 +147,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--2/blob/108fa057ba6728e8ccb4ffb746d77a74a250e29e/рез2.png
 ---
 
 ## Задача 3 - вычисление комплексной экспоненты
@@ -265,7 +265,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--2/blob/108fa057ba6728e8ccb4ffb746d77a74a250e29e/рез3.png
 ---
 
 ## Задача 4 - Структура с битовыми полями для даты
@@ -320,7 +320,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
-
+https://github.com/amaliaberdukova11-09/Lab--2/blob/108fa057ba6728e8ccb4ffb746d77a74a250e29e/рез4.png
 ---
 
 ## Задача 5 – реализация двусвязного списка  
@@ -427,7 +427,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы  
-
+https://github.com/amaliaberdukova11-09/Lab--2/blob/108fa057ba6728e8ccb4ffb746d77a74a250e29e/рез5.png
 ---
 ### Информация о студенте  
 Бердукова Амалия, 1 курс, группа `1об_ПОО/25`
